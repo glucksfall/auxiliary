@@ -7,4 +7,4 @@ Any further help that you need, please contact me or Professor Daniel Garrido.
 
 Best regards!
 
-Rodrigo
+Rodrigo Santibáñez
