@@ -9,4 +9,4 @@ Best regards!
 
 Rodrigo Santibáñez
 
-click [here](https://cdn.rawgit.com/glucksfall/auxiliary/27c76e75/network_motifs_python.html)
+click [here](https://rawgit.com/glucksfall/auxiliary/master/network_motifs.html) for the python tutorial
